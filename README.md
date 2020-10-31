@@ -3,7 +3,7 @@
 
 This repo use for create a development env for PHP developer
 
-# Roughly details (I will update late)
+# Roughly details (I will update later)
 
 1. put your code to src/
 2. run docker-compose up
